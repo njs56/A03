@@ -1,4 +1,4 @@
-Steps to Using Git, Github, and Webstorm:
+**Steps to Using Git, Github, and Webstorm:**
 
 1) Create a GitHub account at https://github.com/join.
 2) Download Git from https://git-scm.com/downloads and Webstorm from https://www.jetbrains.com/student/  and follow the installation instructions.
@@ -13,20 +13,44 @@ Steps to Using Git, Github, and Webstorm:
 
 ****
 
-Glossary:
+**Glossary:**
 
 **Branch:** A contained area of a repository where a developer can create features, fix bugs, and experiment with new ideas without impacting the rest of the repository.
 
 **Clone:** A copy of a repository which typically used to complete work on your local machine.
 
-**Commit:** A capture of the state of a Git project at a certain point in time.
+**Commit:** A saved capture of the state of a Git project at a certain point in time.
+
+**Fetch:** This process grabs all the new remote-tracking branches and tags from a repository without merging those changes into your own branches.
+
+**Git:** Git is a version-control system for tracking changes in source code and is used for coordinating work among programmers during software development.
+
+**GitHub:** GitHub is an online service that hosts software development and version-control using Git.
+
+**Merge:** Merging in Git allows you to independent lines of development and combine them into a singular branch.
+
+**Merge Conflict:** A merge conflict occurs when Git cannot automatically resolve difference between the code in two commits when merging and the programmer is required to determine which changes to incorporate in the final merge.
+
+**Push:** A Git Push is used to upload content from a local repository to a remote repository.
+
+**Pull:** A Git Pull is used to download content from a remote repository to a local repository.
+
+**Remote:** Work that is stored online or to a network is remote.
+
+**Repository:** A repository is a folder inside a Git project that tracks all the changes made to the files within it over time and creates a history of these revisions.
 
 ****
 
-References:
+**References:**
+
+https://njit.instructure.com/courses/13292/files/984370?module_item_id=248756
 
 https://docs.github.com/en
 
 https://www.atlassian.com/git/tutorials/saving-changes/git-commit
 
-https://njit.instructure.com/courses/13292/files/984370?module_item_id=248756
+https://en.wikipedia.org/wiki/Git
+
+https://en.wikipedia.org/wiki/GitHub
+
+https://blog.axosoft.com/learning-git-repository/
